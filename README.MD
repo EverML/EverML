@@ -1,8 +1,8 @@
 # Hello there, Stranger!, I'm Ever!  👋
 
-## I'm a FullStack Developer, at times! currently working at Datapar S.A. 😎
+## I'm a FullStack Developer, at times! currently working at Arkhotech. 😎
 - 🌱 I’m currently learning everything. 
-- 🥅 2020 Goals: To grow my skillset.
+- 🥅 2021 Goals: To grow my skillset.
 - 🤔 Fun(? fact: I really like breaking things to understand how they work.
 
 ### Connect with me:
@@ -17,7 +17,6 @@
 
 <img align="left" alt="Java" width="26px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" />
 <img align="left" alt="Spring Boot" width="26px" src="https://miro.medium.com/max/700/1*O68LbDvD5Dcsnez73M7v4Q.png" />
-<img align="left" alt="Oracle PL-SQL" width="26px" src="https://www.theiotacademy.co/assets/images/coursepages/oracledbasql.png" />
 <img align="left" alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
