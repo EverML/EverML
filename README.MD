@@ -2,7 +2,7 @@
 
 ## I'm a FullStack Developer, at times! currently working at Arkhotech. 😎
 - 🌱 I’m currently learning everything. 
-- 🥅 2021 Goals: To grow my skillset.
+- 🥅 2022 Goals: To grow my skillset.
 - 🤔 Fun(? fact: I really like breaking things to understand how they work.
 
 ### Connect with me:
