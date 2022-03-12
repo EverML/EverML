@@ -41,8 +41,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EverML&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="left" alt="EverML's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=EverML&show_icons=true&hide_border=true&theme=dark" />
-
 
 
 
