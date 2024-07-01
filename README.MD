@@ -1,9 +1,9 @@
 # Hello there, Stranger!, I'm Ever!  👋
 
-## I'm a FullStack Developer, at times! currently working at Arkhotech. 😎
-- 🌱 I’m currently learning everything. 
-- 🥅 2022 Goals: To grow my skillset.
-- 🤔 Fun(? fact: I really like breaking things to understand how they work.
+## I'm a Software Engineer, with a passion for DevOps!
+- 🌱 I specialize in AWS Related Technologies and I'm certified in them (2 Associate Certifications and 1 Professional ). 
+- 🥅 2024 Goals: To create a bigger impact with my work.
+- 🤔 Fun(? fact: I like breaking things to understand how they work.
 
 ### Connect with me:
 
