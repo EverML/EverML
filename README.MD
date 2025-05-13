@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer, with a passion for DevOps!
 - 🌱 I specialize in AWS Related Technologies and I'm certified in them (2 Associate Certifications and 1 Professional ). 
-- 🥅 2024 Goals: To create a bigger impact with my work.
+- 🥅 2025 Goals: To create a bigger impact with my work.
 - 🤔 Fun(? fact: I like breaking things to understand how they work.
 
 ### Connect with me:
